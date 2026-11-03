@@ -5,5 +5,5 @@
 i love him so much ( video and photo is mine )
 </p> 
  <p align="center">
-  <img src="https://github.com/nuhadoresatoru/nuhadoresatoru/blob/main/photo_2026-11-04_00-40-50.jpg?raw=true">
-</p> 
+  <img src="https://github.com/nuhadoresatoru/nuhadoresatoru/blob/main/photo_2026-11-04_00-40-50.jpg?raw=true" width="290">
+</p>
